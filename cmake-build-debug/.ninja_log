@@ -1,0 +1,23 @@
+# ninja log v5
+14	1831	7477139402823349	CMakeFiles/ejercicio_2.dir/main.cpp.obj	b6e0dbc269c8d4cb
+1831	2109	7477139405563554	ejercicio_2.exe	18a8ba8bb395feb1
+19	593	7477143965853051	CMakeFiles/ejercicio_2.dir/Nodo.cpp.obj	f69cca70cdd41e65
+15	895	7477143968983295	CMakeFiles/ejercicio_2.dir/Set.cpp.obj	a2f747949da0977e
+8	1030	7477143970323408	CMakeFiles/ejercicio_2.dir/main.cpp.obj	b6e0dbc269c8d4cb
+1031	1180	7477143971763517	ejercicio_2.exe	57f76d64a0c4ce79
+23	1041	7477159093176567	CMakeFiles/ejercicio_2.dir/Nodo.cpp.obj	f69cca70cdd41e65
+16	1333	7477159096176737	CMakeFiles/ejercicio_2.dir/Set.cpp.obj	a2f747949da0977e
+9	1482	7477159097646853	CMakeFiles/ejercicio_2.dir/main.cpp.obj	b6e0dbc269c8d4cb
+1483	1672	7477159099496991	ejercicio_2.exe	57f76d64a0c4ce79
+10	1018	7477161778758573	CMakeFiles/ejercicio_2.dir/main.cpp.obj	b6e0dbc269c8d4cb
+18	1086	7477161779418631	CMakeFiles/ejercicio_2.dir/Set.cpp.obj	a2f747949da0977e
+1086	1263	7477161781148769	ejercicio_2.exe	57f76d64a0c4ce79
+8	877	7477175583519005	CMakeFiles/ejercicio_2.dir/main.cpp.obj	b6e0dbc269c8d4cb
+14	998	7477175584739116	CMakeFiles/ejercicio_2.dir/Set.cpp.obj	a2f747949da0977e
+999	1162	7477175586279228	ejercicio_2.exe	57f76d64a0c4ce79
+8	903	7477178117804864	CMakeFiles/ejercicio_2.dir/main.cpp.obj	b6e0dbc269c8d4cb
+904	1047	7477178119204926	ejercicio_2.exe	57f76d64a0c4ce79
+8	888	7477178424419359	CMakeFiles/ejercicio_2.dir/main.cpp.obj	b6e0dbc269c8d4cb
+889	1028	7477178425749469	ejercicio_2.exe	57f76d64a0c4ce79
+9	959	7477179639975687	CMakeFiles/ejercicio_2.dir/main.cpp.obj	b6e0dbc269c8d4cb
+959	1099	7477179641315798	ejercicio_2.exe	57f76d64a0c4ce79
